@@ -4,3 +4,6 @@ Cell - Humanities
 C - Name Dropping kamehameha
 G - STEM Kamehameha
 
+C - You are useless...
+G - Go ahead...
+C - I see, you know you can't do anything
